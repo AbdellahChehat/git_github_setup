@@ -1,5 +1,5 @@
 # Python Intro
-# Whgiy Python
+# Why Python
 ## Python Use cases
 #Python Set Up with Pycharm
 ## Python Variables 
