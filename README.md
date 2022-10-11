@@ -118,8 +118,10 @@ print (uk_resident)
 - add changes to our Git-Hub repo - the changes that we made 
 
 - `git add filename` or `git add .` means push everything
-- ``git commit -m "Update" `` 
-- `git push -u origin main` now lets send this new data to github 
+- ``git commit -m "Update" ``  provides  a message 
+- `git push -u origin main` now lets send this new data to GitHub 
+- ``gitirnore`` then `
+
 
 
 
