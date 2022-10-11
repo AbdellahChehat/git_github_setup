@@ -2,10 +2,11 @@
 
 ### Why Python ?
 
-- Easy to learn
+
 - Mature and Supportive Python Community
 -  Support from Renowned Corporate Sponsors
 - Versatility, Efficiency, Reliability, and Speed
+- Easy to learn
 
 
 ### Python Use cases
