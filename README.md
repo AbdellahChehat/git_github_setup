@@ -1,8 +1,8 @@
 # Python Intro
-# Why Python
-## Python Use cases
-#Python Set Up with Pycharm
-## Python Variables 
+- Why Python
+- Python Use cases
+- Python Set Up with Pycharm
+- Python Variables 
 
 
 ``` Python
@@ -51,4 +51,41 @@ print(f'Hello   {first_name}  {last_name}')
 print (DOB)
 print (uk_resident)
 ```
+
+
+------------
+
+## How to generate a new SSH Key:
+ 
+1.     Open terminal 
+ 
+2.     Paste ssh-keygen -t ed25519 -C apedros@spartaglobal.com
+ 
+3.     Click enter till it’s done 
+ 
+4.     Type “ls” into terminal to find the ssh key created 
+ 
+5.     Find the public key created 
+ 
+6.     cat “public key” 
+ 
+7.     copy the key 
+ 
+8.     Open github click on account>settings> SSH and GPC keys 
+ 
+9.     Create a new SSH key 
+
+10.     Once completed you’ll need to push work onto gitHub
+ 
+ 
+## How to push work onto GitHub
+ 
+ 
+1.     Save work of Pycharm 
+2.     Open terminal on Pycharm
+3.     First command (git init)
+4.     Followed by git status (optional)
+5.     git add . 
+6.     git commit -m “update”
+7.     git push -u origin main
 
