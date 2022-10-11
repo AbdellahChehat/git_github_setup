@@ -50,6 +50,7 @@ uk_resident = input()
 print(f'Hello   {first_name}  {last_name}')
 print (DOB)
 print (uk_resident)
+
 ```
 
 
@@ -60,6 +61,8 @@ print (uk_resident)
 1.     Open terminal 
  
 2.     Paste ssh-keygen -t ed25519 -C apedros@spartaglobal.com
+
+<img width="730" alt="Screenshot 2022-10-11 at 09 39 21" src="https://user-images.githubusercontent.com/115224560/195042103-c2b0b2db-b514-4461-968f-0f944438a3b5.png">
  
 3.     Click enter till it’s done 
  
