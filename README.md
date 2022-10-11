@@ -93,7 +93,5 @@ print (uk_resident)
 7.     git push -u origin main
 
 
-## Diagram
-<img width="549" alt="Screenshot 2022-10-10 at 17 26 17" src="https://user-images.githubusercontent.com/115224560/194913067-057a52f9-b198-4fdf-936d-c2d4758d6b1e.png">
 
 
