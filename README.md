@@ -1,8 +1,25 @@
 # Python Intro
-- Why Python
-- Python Use cases
-- Python Set Up with Pycharm
-- Python Variables 
+
+### Why Python ?
+
+- Easy to learn
+- Mature and Supportive Python Community
+-  Support from Renowned Corporate Sponsors
+- Versatility, Efficiency, Reliability, and Speed
+
+
+### Python Use cases
+![](../../Desktop/python-use-cases-7.jpg)
+
+### Python Variables 
+
+- Below I've listed some of the python variables we covered during our class.
+
+1. Integer = Int = 32
+2. Boolean = Bool = True or False 
+3. Float = 1.34 
+4. String = "Abdellah"
+
 
 
 ``` Python
