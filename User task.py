@@ -32,6 +32,6 @@ hobby = input()
 
 
 
-print(f'Hello   {first_name.capitalize()}  {last_name.capitalize()} Your date of birth is {DOB} and you are {uk_resident} uk resident')
-print(f'{first_line} {second_line} {postcode}')
+print(f'Hello, {first_name.capitalize()} {last_name.capitalize()} Your date of birth is {DOB} and you are {uk_resident} uk resident')
+print(f'Your address is {first_line} {second_line} {postcode}')
 print(f'Your favourite hobby is {hobby.lower()}')
