@@ -124,5 +124,9 @@ print (uk_resident)
 
 
 
+<<<<<<< HEAD
 
 - git pull 
+=======
+- abz
+>>>>>>> 78c585e8c874be3548cdde34d7ec199d661af73d
