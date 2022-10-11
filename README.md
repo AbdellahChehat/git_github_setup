@@ -68,6 +68,7 @@ uk_resident = input()
 print(f'Hello   {first_name}  {last_name}')
 print (DOB)
 print (uk_resident)
+
 ```
 
 
@@ -78,6 +79,8 @@ print (uk_resident)
 1.     Open terminal 
  
 2.     Paste ssh-keygen -t ed25519 -C apedros@spartaglobal.com
+
+<img width="730" alt="Screenshot 2022-10-11 at 09 39 21" src="https://user-images.githubusercontent.com/115224560/195042103-c2b0b2db-b514-4461-968f-0f944438a3b5.png">
  
 3.     Click enter till it’s done 
  
@@ -107,5 +110,17 @@ print (uk_resident)
 6.     git commit -m “update”
 7.     git push -u origin main
 
+
 ## Diagram
 <img width="549" alt="Screenshot 2022-10-10 at 17 26 17" src="https://user-images.githubusercontent.com/115224560/194913067-057a52f9-b198-4fdf-936d-c2d4758d6b1e.png">
+
+#### Git & Github 
+- add changes to our Git-Hub repo - the changes that we made 
+
+- `git add filename` or `git add .` means push everything
+- ``git commit -m "Update" `` 
+- `git push -u origin main` now lets send this new data to github 
+
+
+
+
