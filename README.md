@@ -124,4 +124,7 @@ print (uk_resident)
 
 
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 0e7736e40707c3ca5199c55aa40ff4c4cfb99f46

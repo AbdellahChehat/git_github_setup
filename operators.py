@@ -8,3 +8,5 @@ print(a - b)
 print(a > b)
 print(a < b) #
 print(a == b) #False
+
+# % find out what it is how to use it create print statement
