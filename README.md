@@ -202,3 +202,28 @@ print(example_text.replace("with", "suii"))
 
 
 ````
+Concatenation and   casting
+
+```` python
+
+# # Concatenation and   casting
+#
+# # user data input
+
+first_name = "Abdellah"
+last_name = "Chehat"
+salary = 40
+salary1 = "40"
+
+print(first_name)
+print(last_name)
+
+print(first_name + " " + last_name + "" + salary1)
+
+# combining differnt data type in one print function 
+print(first_name + " " + last_name , salary)
+# f string can combine different data types in a line 
+print(f'{first_name} {last_name} {salary1}')
+
+
+````
