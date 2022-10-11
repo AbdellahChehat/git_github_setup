@@ -123,6 +123,7 @@ print (uk_resident)
 
 - Comment is control / 
 
+## String Slicing
 
 ```` python
 
@@ -142,6 +143,7 @@ greeting = "Hello world!"
 
 ````
 
+## Operators 
 
 ```` python
 #a = 24
@@ -175,7 +177,7 @@ greeting = "Hello world!"
 
 ````
 
-
+## String Methods 
 ```` python
 
 # String Methods are available
