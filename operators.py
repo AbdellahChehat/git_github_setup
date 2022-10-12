@@ -84,3 +84,5 @@ print(first_name + " " + last_name + "" + salary1)
 print(first_name + " " + last_name , salary)
 # f string can combine different data types in a line
 print(f'{first_name} {last_name} {salary1}')
+
+
