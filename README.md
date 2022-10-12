@@ -10,7 +10,8 @@
 
 
 ### Python Use cases
-![](../../Desktop/python-use-cases-7.jpg)
+
+![](../../Desktop/python-uses.png.webp)
 
 ### Python Variables 
 
